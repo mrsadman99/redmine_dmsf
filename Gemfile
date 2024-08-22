@@ -25,7 +25,6 @@ source 'https://rubygems.org' do
   gem 'ox' # Dav4Rack
   gem 'rake'
   gem 'uuidtools'
-  gem 'xapian-ruby'
   gem 'zip-zip'
 
   # Redmine extensions
